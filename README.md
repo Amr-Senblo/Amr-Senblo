@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amr-senblo-0b8455224/" target="_blank"><img src="https://img.shields.io/badge/-AmrSenblo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/AmrSenblo/"></a>
-<a href="https://codeforces.com/profile/AmrSenblo" target="_blank"><img src="https://img.shields.io/badge/Codeforces-7ARbii-red?logo=codeforces&logoColor=white&message=Solving%20Problems&"></a>
+<a href="https://codeforces.com/profile/AmrSenblo" target="_blank"><img src="https://img.shields.io/badge/Codeforces-AmrSenblo-red?logo=codeforces&logoColor=white&message=Solving%20Problems&"></a>
 <a href="https://github.com/Amr-Senblo"><img src="https://img.shields.io/github/followers/Amr-Senblo?label=follow&style=social"></a>
 </p>
 
