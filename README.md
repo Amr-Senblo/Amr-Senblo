@@ -4,7 +4,7 @@
 <h3 align="center">I'm Amr Senblo 🌟</h3>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=1700&color=0ED3EB&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=120&lines=Senior+Student%F0%9F%8E%93;Competitive+Programmer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Node+Js+Developer%F0%9F%91%BE;React+Developer%F0%9F%9A%80" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=1700&color=0ED3EB&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=120&lines=Senior+Student%F0%9F%8E%93;Competitive+Programmer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Node+Js+Developer%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
 
 
